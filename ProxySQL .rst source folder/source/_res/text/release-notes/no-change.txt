@@ -1,0 +1,4 @@
+
+`ProxySQL Admin` has not changed since the previous release.
+
+
